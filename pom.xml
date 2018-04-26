@@ -69,13 +69,13 @@
 	<repository>
 		<id>http://35.231.65.172:8081</id>
 		<name>mavenreleases2</name>
-		<url>http://35.231.65.172:8081/repository/maven-releases/</url>
+		<url>http://35.231.65.172:8081/repository/mavenreleases2/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>http://35.231.65.172:8081</id>
 		<name>mavensnapshots2</name>
-		<url>http://35.231.65.172:8081/repository/maven-snapshots/</url>
+		<url>http://35.231.65.172:8081/repository/mavensnapshots2/</url>
 	</snapshotRepository>
 </distributionManagement>
 
