@@ -67,13 +67,13 @@
 	</build>
 <distributionManagement>
 	<repository>
-		<id>releases</id>
+		<id>repo</id>
 		<name>mavenreleases2</name>
 		<url>http://35.231.65.172:8081/repository/mavenreleases2/</url>
 	</repository>
  
 	<snapshotRepository>
-		<id>snapshots</id>
+		<id>repo</id>
 		<name>mavensnapshots2</name>
 		<url>http://35.231.65.172:8081/repository/mavensnapshots2/</url>
 	</snapshotRepository>
